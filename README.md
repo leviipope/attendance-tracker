@@ -4,6 +4,11 @@ Rövid leírás
 ------------
 Ez a repozitórium a Szoftverfejlesztési módszertanok tárgyhoz készült csapatbeadandó projekt forráskódját tartalmazza. A projekt célja: Csapatban dolgozva fejleszteni egy webes appot (backend + frontend), ezáltal fejleszteni kommunikációs és fejlesztői készségeket egyaránt. Valamint megismerni a verziókezelő rendszer által nyújtott előnyöket.
 
+Overview
+--------
+![Dashboard screenshot](docs/img/dashboard.jpg)
+[More screenshots](docs/img/screenshots.md)
+
 Gyors kezdés
 ------------
 Előfeltételek:
